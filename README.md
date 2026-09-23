@@ -1,22 +1,25 @@
 # Vendor Questionnaire Autopilot
 
-Auto-answer vendor security questionnaires from your evidence library — turn days of manual work into minutes.
+Auto-answer vendor security questionnaires from your evidence library.
 
 **Live app:** https://ziontechgroup.com/vendor-questionnaire-autopilot/
+**Part of:** [Zion Tech Group AI App Network](https://ziontechgroup.com/apps/) — 690+ interconnected AI apps, tools and playbooks.
 
 ## Features
-- AI-mapped answers from your existing evidence/policy library
-- Confidence scoring and human-review workflow
-- Continuously learning answer base
+- Ready-to-use, zero-install web app
+- Interlinked with the Zion App Network — every app links to related tools
+- Open source under the Zion-support GitHub organization
 
-## Part of the Zion Tech Group App Network
-- Network showcase: https://zion-support.github.io/apps/
-- Homepage: https://ziontechgroup.com
+## Related apps
+- [Vendor Risk Scorecard](https://github.com/Zion-support/vendor-risk-scorecard) — [live](https://ziontechgroup.com/vendor-risk-scorecard/)
+- [Vendor Matrix Compare](https://github.com/Zion-support/vendor-matrix-compare) — [live](https://ziontechgroup.com/vendor-matrix-compare/)
+- [AI Vendor Comparator](https://github.com/Zion-support/ai-vendor-comparator) — [live](https://ziontechgroup.com/ai-vendor-comparator/)
+- [Zion AI Compliance Evidence Collector](https://github.com/Zion-support/zion-ai-compliance-evidence-collector) — [live](https://ziontechgroup.com/zion-ai-compliance-evidence-collector/)
 
-### Related apps
-- [Security Awareness Coach](https://ziontechgroup.com/security-awareness-coach/) — employee security training
-- [Patch Priority Radar](https://ziontechgroup.com/patch-priority-radar/) — risk-based patch prioritization
-- [Customs Doc Generator](https://ziontechgroup.com/customs-doc-generator/) — AI document generation
+## Links
+- Live: https://ziontechgroup.com/vendor-questionnaire-autopilot/
+- App Network showcase: https://ziontechgroup.com/apps/
+- Homepage: https://ziontechgroup.com/
+- GitHub org: https://github.com/Zion-support
 
----
-© 2026 Zion Tech Group — https://ziontechgroup.com
+© 2026 Zion Tech Group
