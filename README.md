@@ -1,25 +1,24 @@
 # Vendor Questionnaire Autopilot
 
-Auto-answer vendor security questionnaires from your evidence library.
+Auto-answer vendor security questionnaires from your evidence library. Part of the Zion Tech Group App Network.
 
 **Live app:** https://ziontechgroup.com/vendor-questionnaire-autopilot/
-**Part of:** [Zion Tech Group AI App Network](https://ziontechgroup.com/apps/) — 690+ interconnected AI apps, tools and playbooks.
 
-## Features
-- Ready-to-use, zero-install web app
-- Interlinked with the Zion App Network — every app links to related tools
-- Open source under the Zion-support GitHub organization
+## About
+Vendor Questionnaire Autopilot is a free, browser-based tool from the [Zion App Network](https://ziontechgroup.com/apps/) (400+ open-source AI & IT ops apps). Category: **Contracts, Legal & Procurement**.
 
-## Related apps
-- [Vendor Risk Scorecard](https://github.com/Zion-support/vendor-risk-scorecard) — [live](https://ziontechgroup.com/vendor-risk-scorecard/)
-- [Vendor Matrix Compare](https://github.com/Zion-support/vendor-matrix-compare) — [live](https://ziontechgroup.com/vendor-matrix-compare/)
-- [AI Vendor Comparator](https://github.com/Zion-support/ai-vendor-comparator) — [live](https://ziontechgroup.com/ai-vendor-comparator/)
-- [Zion AI Compliance Evidence Collector](https://github.com/Zion-support/zion-ai-compliance-evidence-collector) — [live](https://ziontechgroup.com/zion-ai-compliance-evidence-collector/)
+## Related apps in the network
+- [Vendor Risk Scorecard](https://ziontechgroup.com/vendor-risk-scorecard/) — score and monitor vendor risk ([repo](https://github.com/Zion-support/vendor-risk-scorecard))
+- [Vendor Matrix Compare](https://ziontechgroup.com/vendor-matrix-compare/) — side-by-side vendor comparison ([repo](https://github.com/Zion-support/vendor-matrix-compare))
+- [AI Vendor Comparator](https://ziontechgroup.com/ai-vendor-comparator/) — LLM & cloud AI capability/pricing comparison ([repo](https://github.com/Zion-support/ai-vendor-comparator))
+- [Zion AI Procurement](https://ziontechgroup.com/zion-ai-procurement/) — vendor evaluation and spend analysis ([repo](https://github.com/Zion-support/zion-ai-procurement))
+- [AI RFP Builder](https://ziontechgroup.com/zion-ai-rfp-builder/) — vendor RFP templates ([repo](https://github.com/Zion-support/zion-ai-rfp-builder))
+- [Compliance Policy Writer](https://ziontechgroup.com/compliance-policy-writer/) — audit-ready compliance policies ([repo](https://github.com/Zion-support/compliance-policy-writer))
 
 ## Links
-- Live: https://ziontechgroup.com/vendor-questionnaire-autopilot/
-- App Network showcase: https://ziontechgroup.com/apps/
-- Homepage: https://ziontechgroup.com/
-- GitHub org: https://github.com/Zion-support
+- 🌐 Homepage: https://ziontechgroup.com/
+- 🗂️ Full directory: https://ziontechgroup.com/apps/ · [GitHub catalog](https://github.com/Zion-support/zion-support.github.io/tree/main/apps)
+- 💼 Services: https://ziontechgroup.com/services/ · Discovery $99: https://ziontechgroup.com/discovery/
 
-© 2026 Zion Tech Group
+---
+Zion Tech Group · Middletown, DE · kleber@ziontechgroup.com
